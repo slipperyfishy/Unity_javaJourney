@@ -1,0 +1,44 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 0
+    path: Assets/Scenes/SampleScene.unity
+    guid: 2cda990e2423bbf4892e6590ba056729
+  - enabled: 1
+    path: Assets/JavaJourney/TitleMenu.unity
+    guid: ac338e209ec694a5fb135d1be2ac5d61
+  - enabled: 1
+    path: Assets/JavaJourney/Level1.unity
+    guid: 37e8f88db59e24cbf9bc9a4523af4612
+  - enabled: 1
+    path: Assets/JavaJourney/MniGame3.unity
+    guid: 5b67a3dec12634acb8488addb0131060
+  - enabled: 1
+    path: Assets/JavaJourney/Level2.unity
+    guid: b3e930780303a41619936621103327d9
+  - enabled: 1
+    path: Assets/JavaJourney/MniGame5.unity
+    guid: 74a0b7bef5e9e4263852d1dac63bce32
+  - enabled: 1
+    path: Assets/JavaJourney/Level5.unity
+    guid: f1f3a6ac0ac7e4256ac3019109daf128
+  - enabled: 1
+    path: Assets/JavaJourney/MniGame2.unity
+    guid: cdc600cc6faf54f93819ba5e4bda1155
+  - enabled: 0
+    path: Assets/JavaJourney/MiniGame1.unity
+    guid: 35e04453aa95d4329a45bef644c42851
+  - enabled: 0
+    path: Assets/JavaJourney/Level3.unity
+    guid: 6e6707f4b11d54ef5a23c674ff45417c
+  - enabled: 0
+    path: Assets/JavaJourney/Level4.unity
+    guid: 7f715f01c207b4aea90c38011a541c1e
+  - enabled: 0
+    path: Assets/JavaJourney/MniGame4.unity
+    guid: b4a0afb3eff6a447183d5dd4bb80c987
+  m_configObjects: {}
